@@ -1,0 +1,45 @@
+# General
+.vscode/
+.idea/
+*.log
+*.env
+.DS_Store
+Thumbs.db
+
+# Python (Backend)
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.venv/
+backend/venv/
+backend/env/
+backend/.env
+
+# Node.js (Frontend)
+frontend/node_modules/
+frontend/.npm/
+frontend/.next/
+frontend/.cache/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+
+# Virtual Environments
+venv/
+.env
+.envrc
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Docker (if using)
+docker-compose.override.yml
+*.dockerfile
+docker-compose.yml
+docker-compose.prod.yml
+
+# GitHub Codespaces
+.codespace/
