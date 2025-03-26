@@ -1,4 +1,4 @@
-# Fullstack App - README
+# Fullstack App
 
 This project consists of a **FastAPI backend** and a **React (Vite) frontend**. Follow the steps below to set up and run the application.
 
